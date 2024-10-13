@@ -8,6 +8,7 @@
         </div>
       </template>
       <UButton icon="i-heroicons-book-open" to="https://ui.nuxt.com" target="_blank">Open Nuxt UI Documentation</UButton>
+      <UButton icon="i-heroicons-book-open" to="https://weed-garden.com" target="_blank">Open Weed Garden Site</UButton>
     </UCard>
   </UContainer>
 </template>
